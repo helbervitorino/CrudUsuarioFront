@@ -2,6 +2,8 @@
 
 Todo o desenvolvimento de fronte foi usado o React.Js e o Bootstrap para estilização. 
 
+Darei continuidade nas melhorias desse projeto afim de aprimorar meus conhecimentos nessa tecnologia.
+
 Tela Principal 
 
 ![image](https://user-images.githubusercontent.com/80727067/228360840-499af5d9-029c-4a33-b947-5733992dbfc1.png)
