@@ -1,6 +1,6 @@
 ## Tela para cadastrar Usuarios e mostrar em graficos os Sistemas Operacioanis mais cadastrados e a quantidade de cadastro por dia 
 
-Todo o desenvolvimento de fronte foi usado o React.Js e o Bootstrap para estilização. 
+Todo o desenvolvimento de fronte foi usado o React.Js que consome os dados de uma API criada em ASP.Core e o Bootstrap para estilização rapida dos componentes. 
 
 Darei continuidade nas melhorias desse projeto afim de aprimorar meus conhecimentos nessa tecnologia.
 
