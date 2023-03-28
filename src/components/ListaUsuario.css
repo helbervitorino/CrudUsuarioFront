@@ -1,0 +1,13 @@
+.meuInput {
+    width: 450px;
+    left: 50px;
+  }
+
+.meuGrupo{
+    padding-left: 10px;
+    padding-right: 40px;
+    margin-top: 1px;   
+}
+th{
+  text-align: center;
+}
